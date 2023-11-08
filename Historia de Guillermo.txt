@@ -8,6 +8,8 @@ Modifico este mismo parrafo, otra vez.
 
 Experimento 1 (1ra linea creada en rama experimento)
 
+Experimento 2 (2da linea creada en rama experimento)
+
 Rebase 1 (1ra linea creada para ejercicio Rebase en rama main)
 
 Rebase 2 (2da linea creada para ejercicio Rebase en rama main)
